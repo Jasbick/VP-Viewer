@@ -33,4 +33,6 @@ If you either find any bugs or want new features to be added, please report it.
 
 Now, you may go to the *Node visualization* tab to see the directory node pivot-based distance histogram and its median. The *Query Parameters* tab enables the running of either *range* or *neighborhood* queries so that the user can see the algorithm path on the tree.
 
-Please, see this [Youtube video](https://) for an example of the *VP-Viewer* usage.
+Please, watch the video bellow for an example of the *VP-Viewer* usage.
+
+[![VP-Viewer Presentation](https://img.youtube.com/vi/8pFqhEWdObc/0.jpg)](https://www.youtube.com/watch?v=8pFqhEWdObc)
